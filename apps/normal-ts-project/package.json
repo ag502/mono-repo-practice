@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/package",
+  "name": "normal-ts-project",
+  "version": "0.0.1",
+  "private": true,
+  "prettier": "@repo/prettier-config",
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "@repo/typescript-config": "^0.0.1",
+    "@repo/prettier-config": "^0.0.1",
+    "@repo/eslint-config": "^0.0.1"
+  }
+}
