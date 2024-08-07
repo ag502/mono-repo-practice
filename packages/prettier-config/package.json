@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/package",
+  "name": "@repo/prettier-config",
+  "version": "0.0.1",
+  "private": "true",
+  "main": "prettierrc.json",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
